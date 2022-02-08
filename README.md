@@ -52,3 +52,5 @@ pandemic. They’ve each experienced numerous surges in Covid-19 cases, deaths, 
 Figures 1-3 in appendix) and taken varying approaches to controlling the virus. For instance, Illinois and Ohio
 implemented a public mask mandate early on in the pandemic while Missouri never instituted such a mandate.
 Ohio captured headlines in early May when it was the first state to announce a lottery incentive for vaccinations.
+
+### See https://github.com/morden35/covid_variants_ml/blob/main/project_report.pdf for full report.
