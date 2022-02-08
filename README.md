@@ -1,8 +1,10 @@
+<p align="center">
 # The Pandemic’s Path: Predicting Future Covid-19 Cases in Midwestern States Using Machine Learning Methods
 
-### Brenda Li
-### Sophia Mlawer
-### Michelle Orden
+#### Brenda Li
+#### Sophia Mlawer
+#### Michelle Orden
+</p>
 
 ## Executive Summary
 
